@@ -1,4 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+BIKE LANDING
+Simple bicycle's demo-site with navigation menu, animations when scrolling (AOS library) and special effects for photos.
+There is possibility to use forms for feedback connections
+Responsive page is made using HTML, SCSS, JAVASCRIPT.
+Developed with mobile first methodology, then for tablet and desctop.
+[DEMO LINK](https://Tetkopot.github.io/Bike-landing/)
+
+
